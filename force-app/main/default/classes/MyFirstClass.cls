@@ -4,7 +4,7 @@ public with sharing class MyFirstClass {
     List<Account> newAcct = new List<Account>();
     for(Integer i=0;i<10;i++){
       //insert newAcct;
-      System.debug('Adding my first class')
+      System.debug('Adding my first class');
     }
   }
 }
