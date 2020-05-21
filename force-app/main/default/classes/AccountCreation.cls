@@ -7,6 +7,7 @@ public with sharing class AccountCreation {
       throwableCall();
     }catch(Exception ex){
       //I am not doing anything here
+      //test
     }
   }
 }
